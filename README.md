@@ -7,7 +7,7 @@
     <img src="https://lanyard.cnrad.dev/api/1292931547929772135" />
   </a>
   <br>
-  Telegram: <a href="https://t.me/systemremote">https://t.me/systemremote</a>
+  <a href="https://t.me/systemremote">https://t.me/systemremote</a>
 </p>
 
 ---
